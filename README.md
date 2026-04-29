@@ -3,8 +3,8 @@
 ## Description
 M3LON is a personal budget tracking Android application built for 
 OPSC6311 Module — Part 2 Prototype.
-Developed by: Tshiamo Mosetlha
-Student Number: Your Student Number Here
+Developed by: The_5_Watermelons
+Student Numbers: ST10451437
 Group: The 5 Watermelons
 
 ## Features
