@@ -18,9 +18,9 @@
 
 ​Tshiamo Mosetlha (ST10451437)  
 ​Zandile Selao (ST10436981)  
-​Matlhogonolo Keebine (ST10452412)
-​Muhluri Nkuna (ST10437226)
-​Ndabezinhle Mthunyane (ST10457068)
+​Matlhogonolo Keebine (ST10452412)   
+​Muhluri Nkuna (ST10437226)   
+​Ndabezinhle Mthunyane (ST10457068)   
 
 ## Features
 - 🔐 User Registration & Login with Firebase Authentication
