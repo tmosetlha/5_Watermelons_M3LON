@@ -4,8 +4,14 @@
 M3LON is a personal budget tracking Android application built for 
 OPSC6311 Module — Part 2 Prototype.
 Developed by: The_5_Watermelons
-Student Numbers: ST10451437
-Group: The 5 Watermelons
+Full Names and Student Numbers: 
+Tshiamo Mosetlha - ST10451437, 
+Zandile Selao - ST10436981,
+Matlhogonolo Keebine - ST10452412,
+Muhluri Nkuna - ST10437226,
+Ndabezinhle Mthunyane - ST10457068
+
+Group: The 5_Watermelons
 
 ## Features
 - 🔐 User Registration & Login with Firebase Authentication
@@ -38,12 +44,14 @@ Group: The 5 Watermelons
 5. Enable Firestore in Firebase Console
 6. Build and run on Android device (API 24+)
 
+FROM PART 1 - VISUAL  STORYBOARD LINK
+https://tmosetlha.github.io/ST10451437_5_WATERMELONS_VISUAL_STORYBOARD_FOR_M3LON/
+
 ## Video Demo
 [Click here to watch the demo](YOUR_YOUTUBE_LINK_HERE)
 
 ## APK
 Download the latest APK from the releases section.
-
 
 ## References
 - Firebase Documentation: https://firebase.google.com/docs
