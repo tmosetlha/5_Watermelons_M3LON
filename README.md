@@ -44,14 +44,14 @@ Group: The 5_Watermelons
 5. Enable Firestore in Firebase Console
 6. Build and run on Android device (API 24+)
 
-FROM PART 1 - VISUAL  STORYBOARD LINK
+##FROM PART 1 - VISUAL  STORYBOARD LINK
 https://tmosetlha.github.io/ST10451437_5_WATERMELONS_VISUAL_STORYBOARD_FOR_M3LON/
 
 ## Video Demo
 [Click here to watch the demo](YOUR_YOUTUBE_LINK_HERE)
 
 ## APK
-Download the latest APK from the releases section.
+[Download the latest APK from the releases section.](https://github.com/tmosetlha/5_Watermelons_M3LON/releases/download/M3LON_v1.0/app-debug.apk)
 
 ## References
 - Firebase Documentation: https://firebase.google.com/docs
