@@ -5,11 +5,11 @@
 ​M3LON (Smart Banking, Sliced Simple) is a high-performance personal finance management application developed as a prototype for the OPSC6311 module. The application is designed to solve the common friction points in manual expense tracking by leveraging Artificial Intelligence and Cloud Infrastructure.
 ​Developed by The 5 Watermelons, M3LON moves beyond basic data entry. By integrating Google ML Kit’s Optical Character Recognition (OCR), users can instantly digitize physical receipts, transforming paper waste into actionable financial data. The application follows a modern MVVM (Model-View-ViewModel) architectural pattern to ensure a fluid user experience and scalable code logic, optimized specifically for high-end Android hardware.
 
-​🚀 The M3LON Mission
-​Financial literacy is often hindered by the "effort" of tracking. M3LON aims to "slice" through that complexity with:
-​Automation: Reducing manual input through AI-driven receipt scanning.
-​Visual Intelligence: Converting raw transaction logs into intuitive Line and Bar charts via MPAndroidChart.
-​Gamification: Encouraging consistent financial habits through a custom XP and Badge system integrated into the user profile.
+​🚀 The M3LON Mission   
+​Financial literacy is often hindered by the "effort" of tracking. M3LON aims to "slice" through that complexity with:   
+​Automation: Reducing manual input through AI-driven receipt scanning.   
+​Visual Intelligence: Converting raw transaction logs into intuitive Line and Bar charts via MPAndroidChart.   
+​Gamification: Encouraging consistent financial habits through a custom XP and Badge system integrated into the user profile.   
 
 ​Hybrid Storage: Utilizing a dual-database approach with RoomDB for offline-first local persistence and Firebase Firestore for real-time cloud synchronization.
 
