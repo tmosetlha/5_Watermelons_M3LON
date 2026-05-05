@@ -1,17 +1,25 @@
 # M3LON — Smart Banking, Sliced Simple 🍉
 
 ## Description
-M3LON is a personal budget tracking Android application built for 
-OPSC6311 Module — Part 2 Prototype.
-Developed by: The_5_Watermelons
-Full Names and Student Numbers: 
-Tshiamo Mosetlha - ST10451437, 
-Zandile Selao - ST10436981,
-Matlhogonolo Keebine - ST10452412,
-Muhluri Nkuna - ST10437226,
-Ndabezinhle Mthunyane - ST10457068
+​📝 Project Description
+​M3LON (Smart Banking, Sliced Simple) is a high-performance personal finance management application developed as a prototype for the OPSC6311 module. The application is designed to solve the common friction points in manual expense tracking by leveraging Artificial Intelligence and Cloud Infrastructure.
+​Developed by The 5 Watermelons, M3LON moves beyond basic data entry. By integrating Google ML Kit’s Optical Character Recognition (OCR), users can instantly digitize physical receipts, transforming paper waste into actionable financial data. The application follows a modern MVVM (Model-View-ViewModel) architectural pattern to ensure a fluid user experience and scalable code logic, optimized specifically for high-end Android hardware.
 
-Group: The 5_Watermelons
+​🚀 The M3LON Mission
+​Financial literacy is often hindered by the "effort" of tracking. M3LON aims to "slice" through that complexity with:
+​Automation: Reducing manual input through AI-driven receipt scanning.
+​Visual Intelligence: Converting raw transaction logs into intuitive Line and Bar charts via MPAndroidChart.
+​Gamification: Encouraging consistent financial habits through a custom XP and Badge system integrated into the user profile.
+
+​Hybrid Storage: Utilizing a dual-database approach with RoomDB for offline-first local persistence and Firebase Firestore for real-time cloud synchronization.
+
+​👥 The 5 Watermelons (Development Team)
+​This project represents a collaborative effort by a dedicated team of developers at Rosebank College:
+​Tshiamo Mosetlha (ST10451437) — Lead UI/UX & Software Architecture
+​Zandile Selao (ST10436981)
+​Matlhogonolo Keebine (ST10452412)
+​Muhluri Nkuna (ST10437226)
+​Ndabezinhle Mthunyane (ST10457068)
 
 ## Features
 - 🔐 User Registration & Login with Firebase Authentication
