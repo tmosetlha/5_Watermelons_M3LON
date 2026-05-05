@@ -15,6 +15,7 @@
 
 ​👥 The 5 Watermelons (Development Team)
 ​This project represents a collaborative effort by a dedicated team of developers at Rosebank College:
+
 ​Tshiamo Mosetlha (ST10451437) — Lead UI/UX & Software Architecture
 ​Zandile Selao (ST10436981)
 ​Matlhogonolo Keebine (ST10452412)
