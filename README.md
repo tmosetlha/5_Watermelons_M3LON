@@ -57,7 +57,9 @@
 https://tmosetlha.github.io/ST10451437_5_WATERMELONS_VISUAL_STORYBOARD_FOR_M3LON/
 
 ## Video Demo
-Video Demontration: https://youtu.be/OKgmmu0sRnk?si=m_1XiVDV9F49dgg-
+Video Demontration:MALE DEMO - >  https://youtu.be/OKgmmu0sRnk?si=m_1XiVDV9F49dgg-
+
+Video Demontration:FEMALE MALE DEMO - > https://youtu.be/6Tz25YlzVGE?si=jMxIfoVpovsYLuh9
 
 ## APK
 [Download the latest APK from the releases section.](https://github.com/tmosetlha/5_Watermelons_M3LON/releases/download/M3LON_v1.0/app-debug.apk)
