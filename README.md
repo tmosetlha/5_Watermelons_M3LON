@@ -59,15 +59,15 @@ https://github.com/tmosetlha/5_Watermelons_M3LON.git
 ## FROM PART 1 - VISUAL  STORYBOARD LINK
 https://tmosetlha.github.io/ST10451437_5_WATERMELONS_VISUAL_STORYBOARD_FOR_M3LON/
 
-## Video Demo
-Video Demontration:MALE DEMO - >  https://youtu.be/OKgmmu0sRnk?si=m_1XiVDV9F49dgg-
+## VIDEO DEMO
+Video Demonstration: MALE DEMO - >  https://youtu.be/OKgmmu0sRnk?si=m_1XiVDV9F49dgg-
 
-Video Demontration:FEMALE MALE DEMO - > https://youtu.be/6Tz25YlzVGE?si=jMxIfoVpovsYLuh9
+Video Demonstration: FEMALE MALE DEMO - > https://youtu.be/6Tz25YlzVGE?si=jMxIfoVpovsYLuh9
 
 ## APK
 [Download the latest APK from the releases section.](https://github.com/tmosetlha/5_Watermelons_M3LON/releases/download/M3LON_v1.0/app-debug.apk)
 
-## References
+## REFERENCES
 - Firebase Documentation: https://firebase.google.com/docs
 - Android Developer Docs: https://developer.android.com/docs
 - ML Kit Text Recognition: https://developers.google.com/ml-kit/vision/text-recognition
