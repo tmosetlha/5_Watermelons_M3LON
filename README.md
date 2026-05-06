@@ -53,7 +53,10 @@
 5. Enable Firestore in Firebase Console
 6. Build and run on Android device (API 24+)
 
-##FROM PART 1 - VISUAL  STORYBOARD LINK
+## GITHUB LINK
+https://github.com/tmosetlha/5_Watermelons_M3LON.git
+
+## FROM PART 1 - VISUAL  STORYBOARD LINK
 https://tmosetlha.github.io/ST10451437_5_WATERMELONS_VISUAL_STORYBOARD_FOR_M3LON/
 
 ## Video Demo
