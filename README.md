@@ -130,4 +130,5 @@ A sophisticated data visualization tool that maps spending intensity across a 24
 *UX Objective:* To reveal hidden spending habits by showing when the user is most financially vulnerable, enabling targeted self-reflection and AI-assisted intervention during those specific "hot" hours.
 
 ## VIDEO DEMO PART 3
+Video Demonstration -> https://youtu.be/cS79noi3sgA?si=VlT4zNpx3_W6diln
 
