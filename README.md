@@ -132,4 +132,5 @@ A sophisticated data visualization tool that maps spending intensity across a 24
 ## VIDEO DEMO PART 3
 Video Demonstration -> https://youtu.be/cS79noi3sgA?si=VlT4zNpx3_W6diln
 
-
+## APK Part 3
+[Download the Part 3 APK from the releases section.](https://github.com/tmosetlha/5_Watermelons_M3LON/releases/download/M3LON_v2.0/app-debug.apk)
